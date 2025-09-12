@@ -1,4 +1,4 @@
-package _2025_09_06_DesignPattern._2025_09_11_05_MementoPattern_PersonalSolution_Undo;
+package _2025_09_06_DesignPattern._2025_09_11_05_MementoPattern.Homework_Undo;
 
 import java.util.Stack;
 
