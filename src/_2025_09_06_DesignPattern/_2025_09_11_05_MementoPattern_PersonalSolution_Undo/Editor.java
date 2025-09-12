@@ -1,4 +1,4 @@
-package _2025_09_06_DesignPattern.memento;
+package _2025_09_06_DesignPattern._2025_09_11_05_MementoPattern_PersonalSolution_Undo;
 
 import java.util.Stack;
 
@@ -16,11 +16,11 @@ public class Editor {
         addedContents.push(content);
     }
 
-    public void undo(){
+    public String undo(){
         if(!addedContents.isEmpty()){
             content = addedContents.pop();
-            System.out.println("Last Added content: "+ content);
         }
+        return content;
     }
 
 }
