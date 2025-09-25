@@ -15,6 +15,5 @@ public class Main {
         canvas.setCurrentTool(new NewTool());
         canvas.mouseDown();
         canvas.mouseUp();
-
     }
 }

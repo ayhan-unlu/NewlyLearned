@@ -1,0 +1,14 @@
+[
+  {
+    "nationalIdNumber": "1234",
+    "birthDate": "1979",
+    "balance": 0.0,
+    "password": "1234"
+  },
+  {
+    "nationalIdNumber": "4567",
+    "birthDate": "1980",
+    "balance": 0.0,
+    "password": "4567"
+  }
+]
